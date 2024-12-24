@@ -149,6 +149,10 @@ Visualize the popularity of room types across neighborhoods.<br/>
   Identify extreme outliers using statistical methods (e.g., IQR rule).<br/>
   Suggest strategies to deal with outliers (e.g., capping, log transformation, or removal).
 
+[Outlier detection and removal using percentile](https://youtu.be/7sJaRHF03K8?feature=shared) <br/>
+[Outlier detection and removal: z score, standard deviation](https://youtu.be/KFuEAGR3HS4?feature=shared) <br/>
+[Outlier detection and removal using IQR](https://youtu.be/A3gClkblXK8?feature=shared) <br/>
+
 Analyze the impact of outlier handling on subsequent visualizations.<br/>
 ### Date Transformation
 1. Parse the "last review" column into a proper date format.<br/>
