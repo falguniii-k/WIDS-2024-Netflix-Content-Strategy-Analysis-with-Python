@@ -156,3 +156,8 @@ Analyze the impact of outlier handling on subsequent visualizations.<br/>
 3. Analyze trends over time:<br/>
   Visualize the number of reviews per year.<br/>
   Investigate seasonal trends, if any (e.g., monthly distribution).<br/>
+### Advanced Analysis
+1. Suggest one additional analysis that can be performed with the dataset and implement it. Examples include:<br/>
+  Predicting price based on features.<br/>
+  Identifying areas with the highest availability.<br/>
+  Clustering neighborhoods by their rental profiles.<br/>
