@@ -135,4 +135,5 @@ Explore and preprocess the NYC Airbnb Open Data to uncover insights. The assignm
   Identify columns with missing values and propose a strategy to impute or remove them.<br/>
 2. Duplicated Rows:<br/>
   Check for duplicate rows and handle them appropriately.
+
 Justify your decisions for handling missing and duplicated values.<br/>
