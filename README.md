@@ -142,4 +142,11 @@ Justify your decisions for handling missing and duplicated values.<br/>
 2. Encode categorical variables for further analysis: <br/>
     Suggest different encoding methods (e.g., one-hot encoding, label encoding) and justify your choice.
    
-Visualize the popularity of room types across neighborhoods.
+Visualize the popularity of room types across neighborhoods.<br/>
+### Outlier Detection and Handling
+1. Focus on the price column: <br/>
+  Plot the price distribution using a histogram or boxplot. <br/>
+  Identify extreme outliers using statistical methods (e.g., IQR rule).<br/>
+  Suggest strategies to deal with outliers (e.g., capping, log transformation, or removal).
+
+Analyze the impact of outlier handling on subsequent visualizations.<br/>
