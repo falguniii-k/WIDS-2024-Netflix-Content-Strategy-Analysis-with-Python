@@ -125,3 +125,9 @@ In this assignment, you will practice cleaning and preprocessing data using the 
 # Objective
 Explore and preprocess the NYC Airbnb Open Data to uncover insights. The assignment focuses on handling missing data, encoding categorical variables, detecting and addressing outliers, and performing time-series analysis on reviews.
 
+Tasks
+Data Exploration and Summary
+
+Load the dataset and provide a summary of its structure (number of rows, columns, data types).
+Identify categorical and numerical columns.
+Visualize the distribution of key variables such as price, number of reviews, and availability.
