@@ -150,3 +150,9 @@ Visualize the popularity of room types across neighborhoods.<br/>
   Suggest strategies to deal with outliers (e.g., capping, log transformation, or removal).
 
 Analyze the impact of outlier handling on subsequent visualizations.<br/>
+### Date Transformation
+1. Parse the "last review" column into a proper date format.<br/>
+2. Create a new column for the year of the last review.<br/>
+3. Analyze trends over time:<br/>
+  Visualize the number of reviews per year.<br/>
+  Investigate seasonal trends, if any (e.g., monthly distribution).<br/>
