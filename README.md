@@ -130,3 +130,9 @@ Explore and preprocess the NYC Airbnb Open Data to uncover insights. The assignm
   1. Load the dataset and provide a summary of its structure (number of rows, columns, data types).<br/>
   2. Identify categorical and numerical columns.<br/>
   3. Visualize the distribution of key variables such as price, number of reviews, and availability.<br/>
+### Data Cleaning <br/>
+1. Missing Values:<br/>
+  Identify columns with missing values and propose a strategy to impute or remove them.<br/>
+2. Duplicated Rows:<br/>
+  Check for duplicate rows and handle them appropriately.<br/>
+Justify your decisions for handling missing and duplicated values.<br/>
