@@ -140,8 +140,8 @@ Justify your decisions for handling missing and duplicated values.<br/>
 ### Categorical Data Processing
 1. Analyze the distribution of neighborhood and room type columns. <br/>
 2. Encode categorical variables for further analysis: <br/>
-    Suggest different encoding methods (e.g., one-hot encoding, label encoding) and justify your choice.
-[Matplotlib Tutorial](https://youtu.be/LWDhSGQHt2o?feature=shared) <br/>
+    Suggest different encoding methods (e.g., one-hot encoding, label encoding) and justify your choice. <br/>
+[Managing Categorical Data](https://youtu.be/LWDhSGQHt2o?feature=shared) <br/>
    
 Visualize the popularity of room types across neighborhoods.<br/>
 ### Outlier Detection and Handling
