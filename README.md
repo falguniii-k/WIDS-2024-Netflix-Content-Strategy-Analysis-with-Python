@@ -120,3 +120,8 @@ In this assignment, you will practice cleaning and preprocessing data using the 
   * A line graph of average temperature with error bars representing uncertainty. <br/>
   * A separate line graph showing the trend in uncertainty over time. <br/>
   * Insights and explanations on how uncertainty impacts data consistency and analysis. <br/>
+
+# Week 3
+# Objective
+Explore and preprocess the NYC Airbnb Open Data to uncover insights. The assignment focuses on handling missing data, encoding categorical variables, detecting and addressing outliers, and performing time-series analysis on reviews.
+
