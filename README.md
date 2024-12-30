@@ -120,3 +120,49 @@ In this assignment, you will practice cleaning and preprocessing data using the 
   * A line graph of average temperature with error bars representing uncertainty. <br/>
   * A separate line graph showing the trend in uncertainty over time. <br/>
   * Insights and explanations on how uncertainty impacts data consistency and analysis. <br/>
+
+# Week 3
+# Objective
+Explore and preprocess the NYC Airbnb Open Data to uncover insights. The assignment focuses on handling missing data, encoding categorical variables, detecting and addressing outliers, and performing time-series analysis on reviews.
+
+## Tasks <br/>
+### Data Exploration and Summary <br/>
+  1. Load the dataset and provide a summary of its structure (number of rows, columns, data types).<br/>
+  2. Identify categorical and numerical columns.<br/>
+  3. Visualize the distribution of key variables such as price, number of reviews, and availability.<br/>
+### Data Cleaning <br/>
+1. Missing Values:<br/>
+  Identify columns with missing values and propose a strategy to impute or remove them.<br/>
+2. Duplicated Rows:<br/>
+  Check for duplicate rows and handle them appropriately.
+
+Justify your decisions for handling missing and duplicated values.<br/>
+### Categorical Data Processing
+1. Analyze the distribution of neighborhood and room type columns. <br/>
+2. Encode categorical variables for further analysis: <br/>
+    Suggest different encoding methods (e.g., one-hot encoding, label encoding) and justify your choice. <br/>
+[Managing Categorical Data](https://youtu.be/LWDhSGQHt2o?feature=shared) <br/>
+   
+Visualize the popularity of room types across neighborhoods.<br/>
+### Outlier Detection and Handling
+1. Focus on the price column: <br/>
+  Plot the price distribution using a histogram or boxplot. <br/>
+  Identify extreme outliers using statistical methods (e.g., IQR rule).<br/>
+  Suggest strategies to deal with outliers (e.g., capping, log transformation, or removal).
+
+[Outlier detection and removal using percentile](https://youtu.be/7sJaRHF03K8?feature=shared) <br/>
+[Outlier detection and removal: z score, standard deviation](https://youtu.be/KFuEAGR3HS4?feature=shared) <br/>
+[Outlier detection and removal using IQR](https://youtu.be/A3gClkblXK8?feature=shared) <br/>
+
+Analyze the impact of outlier handling on subsequent visualizations.<br/>
+### Date Transformation
+1. Parse the "last review" column into a proper date format.<br/>
+2. Create a new column for the year of the last review.<br/>
+3. Analyze trends over time:<br/>
+  Visualize the number of reviews per year.<br/>
+  Investigate seasonal trends, if any (e.g., monthly distribution).<br/>
+### Advanced Analysis
+1. Suggest one additional analysis that can be performed with the dataset and implement it. Examples include:<br/>
+  Predicting price based on features.<br/>
+  Identifying areas with the highest availability.<br/>
+  Clustering neighborhoods by their rental profiles.<br/>
